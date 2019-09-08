@@ -1,7 +1,8 @@
 # Reddit Flair Predictor
 
 [Project Hosted on : ](https://precog-final-manthan.herokuapp.com/)
-[Machine Learning Mode : ](https://drive.google.com/file/d/1C_sxTrOCIoiqIPBieokMOYtD-JxmJCgE/view?usp=sharing)
+
+[Machine Learning Model: ](https://drive.google.com/file/d/1C_sxTrOCIoiqIPBieokMOYtD-JxmJCgE/view?usp=sharing)
 
 
 ### Technologies Used:
@@ -15,6 +16,6 @@
 
 <img alt="image_1" src="working_proj/Screenshot 2019-09-08 at 3.55.33 PM.png" width="400px">
 
-![](working_proj/Screenshot 2019-09-08 at 3.55.33 PM.png)
-*image_caption*
+!["First"](working_proj/Screenshot 2019-09-08 at 3.55.33 PM.png)
+*Start Screen*
 
