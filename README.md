@@ -1,8 +1,8 @@
 # Reddit Flair Predictor
 
-[Project Hosted on : ](https://precog-final-manthan.herokuapp.com/)
+[Project Hosted on : Heroku (CSS not enabled due to memory issue )](https://precog-final-manthan.herokuapp.com/)
 
-[Machine Learning Model: ](https://drive.google.com/file/d/1C_sxTrOCIoiqIPBieokMOYtD-JxmJCgE/view?usp=sharing)
+[Machine Learning Model: Google Drove link can be downloaded and used ](https://drive.google.com/file/d/1C_sxTrOCIoiqIPBieokMOYtD-JxmJCgE/view?usp=sharing)
 
 
 ### Technologies Used:
