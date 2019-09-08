@@ -1,5 +1,7 @@
 # Reddit Flair Predictor
 
-## Technologies Used:
-Fronted - HTML/CSS
-Backend - Flask
+### Technologies Used:
+* Frontend - HTML/CSS
+* Backend - Flask
+* Database - Direct CSV import from pandas library
+* APIs - Reddit API, PRAW Model 
