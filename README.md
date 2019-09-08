@@ -5,3 +5,9 @@
 * Backend - Flask
 * Database - Direct CSV import from pandas library
 * APIs - Reddit API, PRAW Model 
+
+
+### Project Screenshots
+
+<img alt="image_1" src="working_proj/india.png" width="400px">
+</center>
