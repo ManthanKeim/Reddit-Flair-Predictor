@@ -1,6 +1,8 @@
 # Reddit Flair Predictor
 
-Project Hosted on : 
+[Project Hosted on : ](https://precog-final-manthan.herokuapp.com/)
+[Machine Learning Mode : ](https://drive.google.com/file/d/1C_sxTrOCIoiqIPBieokMOYtD-JxmJCgE/view?usp=sharing)
+
 
 ### Technologies Used:
 * Frontend - HTML/CSS
