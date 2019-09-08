@@ -14,15 +14,15 @@
 
 ### Project Screenshots on LocalHost
 
-<img alt="image_1" src="working_proj/Screenshot 2019-09-08 at 3.55.44 PM.png" width="400px">
+<img alt="image_1" src="working_proj/Screenshot 2019-09-08 at 3.55.44 PM.png" width="700px">
 
 Starting Screen 
 
-<img alt="image_1" src="working_proj/Screenshot 2019-09-08 at 3.55.33 PM.png" width="400px">
+<img alt="image_1" src="working_proj/Screenshot 2019-09-08 at 3.55.33 PM.png" width="700px">
 
 Predicted Flair
 
-<img alt="image_1" src="working_proj/Screenshot 2019-09-08 at 3.56.54 PM.png" width="400px">
+<img alt="image_1" src="working_proj/Screenshot 2019-09-08 at 3.56.54 PM.png" width="700px">
 
 About Subreddit
 
@@ -41,6 +41,8 @@ Title Lenght
 
 Number of Upvotes/Downvotes
 
+<img alt="image_1" src="working_proj/india8.png" width="700px">
+
 <img alt="image_1" src="working_proj/india5.png" width="700px">
 
 Distribution of Score
@@ -48,8 +50,6 @@ Distribution of Score
 <img alt="image_1" src="working_proj/india7.png" width="700px">
 
 Comment Lengths
-
-<img alt="image_1" src="working_proj/india8.png" width="700px">
 
 <img alt="image_1" src="working_proj/india6.png" width="700px">
 
