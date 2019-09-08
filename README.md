@@ -35,7 +35,11 @@ WordCloud
 
 <img alt="image_1" src="working_proj/india2.png" width="700px">
 
-Title Lenght
+Title Length
+
+<img alt="image_1" src="working_proj/india7.png" width="700px">
+
+Comment Length
 
 <img alt="image_1" src="working_proj/india4.png" width="700px">
 
@@ -46,10 +50,6 @@ Number of Upvotes/Downvotes
 <img alt="image_1" src="working_proj/india5.png" width="700px">
 
 Distribution of Score
-
-<img alt="image_1" src="working_proj/india7.png" width="700px">
-
-Comment Lengths
 
 <img alt="image_1" src="working_proj/india6.png" width="700px">
 
