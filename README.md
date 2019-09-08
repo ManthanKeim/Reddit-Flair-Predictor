@@ -39,11 +39,11 @@ Title Lenght
 
 <img alt="image_1" src="working_proj/india4.png" width="400px">
 
-Comment Lengths
+Number of Upvotes/Downvotes
 
 <img alt="image_1" src="working_proj/india5.png" width="400px">
 
-Number of Upvotes/Downvotes
+Comment Lengths
 
 <img alt="image_1" src="working_proj/india7.png" width="400px">
 
