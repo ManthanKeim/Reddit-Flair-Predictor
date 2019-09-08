@@ -51,6 +51,6 @@ Number of Upvotes/Downvotes
 
 Distribution of Score
 
-<img alt="image_1" src="working_proj/india6.png" width="700px">
+<img alt="image_1" src="working_proj/india6.png" width="1000px">
 
 Correlation Heatmap
