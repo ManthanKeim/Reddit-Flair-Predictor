@@ -16,6 +16,8 @@
 
 <img alt="image_1" src="working_proj/Screenshot 2019-09-08 at 3.55.33 PM.png" width="400px">
 
+Starting Screen 
+
 <img alt="image_1" src="working_proj/Screenshot 2019-09-08 at 3.55.44 PM.png" width="400px">
 
 <img alt="image_1" src="working_proj/Screenshot 2019-09-08 at 3.56.10 PM.png" width="400px">
@@ -28,8 +30,6 @@
 <img alt="image_1" src="working_proj/india.png" width="400px">
 
 <img alt="image_1" src="working_proj/india2.png" width="400px">
-
-<img alt="image_1" src="working_proj/india3.png" width="400px">
 
 <img alt="image_1" src="working_proj/india4.png" width="400px">
 
