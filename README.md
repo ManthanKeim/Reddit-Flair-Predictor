@@ -16,6 +16,3 @@
 
 <img alt="image_1" src="working_proj/Screenshot 2019-09-08 at 3.55.33 PM.png" width="400px">
 
-!["First"](working_proj/Screenshot 2019-09-08 at 3.55.33 PM.png)
-*Start Screen*
-
