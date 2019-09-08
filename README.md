@@ -7,7 +7,7 @@
 * APIs - Reddit API, PRAW Model 
 
 
-### Project Screenshots
+### Data Analysis
 
 <img alt="image_1" src="working_proj/india.png" width="400px">
 </center>
