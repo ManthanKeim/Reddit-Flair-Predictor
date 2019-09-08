@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html >
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <!--From https://codepen.io/frytyler/pen/EGdtg-->
+     <head>
+     <meta charset="UTF-8">
+     <title>Precog Task</title>
+     <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+     <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+     <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+     <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+     
+     </head>
+     
+     <body>
+     <div class="login">
+     <h1>About Subreddit</h1>
+     <!-- TITLE AND ALL -->
+    
+    <div class = "container-fluid-full">
+    
+     <h3>Title of the subreddit</h3>
+     {{title}}
+     <br>
+     <br>
+     <h3>About Subreddit post</h3>
+     {{About}}
+     <br>
+     <div class="row">
+         <div class="column">
+             
+             <img src="/static/images/india.png" height="400" width="600">
+                 <div class="caption center-block">WordCloud</div>
+                 <img src="/static/images/india2.png" height="400" width="600">
+                     <div class="caption center-block">Title Lenght</div>
+                     <img src="/static/images/india7.png" height="400" width="600" >
+                         <div class="caption center-block">Comment Lengths</div>
+                         <img src="/static/images/india4.png" height="400" width="600">
+                             <div class="caption center-block">Number of Upvotes/Downvotes</div>
+                             <img src="/static/images/india5.png" height="400" width="600">
+                                 <div class="caption center-block">Distribution of Score</div>
+                                 <img src="/static/images/india6.png" height="400" width="600" >
+                                     <div class="caption center-block">Correlation Heatmap</div>
+                                     </div>
+                                     </div>
+     </div>
+     </body>
+     </html>

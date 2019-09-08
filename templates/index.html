@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>Precog Task</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  
+</head>
+
+<body>
+ <div class="login">
+	<h1>Predict Reddit Flair</h1>
+
+     <!-- TO GET THE DATA FROM FORM -->
+    <form action="{{ url_for('predict')}}"method="post">
+    	<input type="text" name="redditurl" placeholder="Reddit Subreddit URL" required="required" />
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict flair</button>
+<!--        <br>-->
+<!--        <a href="/about" class="btn btn-primary btn-block btn-small" type="submit">About Subreddit</a>-->
+    </form>
+    <br>
+    <form action="{{ url_for('about')}}"method="post">
+        <input type="text" name="redditurl" placeholder="Reddit Subreddit URL" required="required" />
+        <button type="submit" class="btn btn-primary btn-block btn-large">About Subreddit</button>
+    </form>
+   <br>
+   <br>
+   {{ prediction_text }}
+<!--   <br>-->
+<!--   <br>-->
+<!--   <h3>About the subreddit</h3>-->
+<!--   {{About}}-->
+<!--   <h3>About the subreddit</h3>-->
+<!--   {{About}}-->
+ </div>
+
+
+</body>
+</html>
