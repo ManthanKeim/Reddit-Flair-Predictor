@@ -2,7 +2,7 @@
 
 [Project Hosted on : Heroku](https://damp-tundra-68404.herokuapp.com)
 
-[Machine Learning Model: Google Drive link](https://drive.google.com/file/d/1C_sxTrOCIoiqIPBieokMOYtD-JxmJCgE/view?usp=sharing)
+[Machine Learning Model](https://drive.google.com/file/d/1C_sxTrOCIoiqIPBieokMOYtD-JxmJCgE/view?usp=sharing)
 
 
 ### Technologies Used:
