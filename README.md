@@ -71,7 +71,7 @@ Correlation Heatmap
 * scikit
 * sklearn
 * nltk
-* etc. ( listed in requirements.txt)
+* etc.( listed in requirements.txt)
 
 ### Refrences
 
